@@ -10,7 +10,7 @@ Identificación de factores de éxito en ventas de videojuegos
 🔗 https://github.com/Pochacco1209/Insights-accionables-videojuegos
 
 ### Servicio de Telecomunicaciones
-Idebtificación de Operadores Ineficientes en un Servicio de Telecomunicaciones
+Identificación de Operadores Ineficientes en un Servicio de Telecomunicaciones
 🔗 https://github.com/Pochacco1209/Servicio-de-Telecomunicaciones
 
 ## Herramientas
